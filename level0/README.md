@@ -1,4 +1,4 @@
-# Level 0
+# Level 0 - Hello Ethernaut
 
 The goal of this level is just to become familar with how ethernaut works. For the first few levels the easiest way to interact with the ethernaut game is through chrome dev tools console.
 
@@ -10,6 +10,7 @@ await contract.info2('hello')
 await contract.info42()
 await contract.theMethodName()
 await contract.method7123949()
+await contract.password()
 await contract.authenicate("ethernaut0")
 ```
 Done, now you just need to submit the instance. 

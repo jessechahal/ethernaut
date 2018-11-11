@@ -1,4 +1,4 @@
-# Level 1
+# Level 1 - Fallback
 
 The goal of this level is to trigger the get all the ether stored in the contract. In order to do this you need to become the contract owner. In order to become the owner you must trigger the fallback method. The fallback method has a requirement that whoever calls it needs to have some contributions already in the contract and also have just contributions during the triggering of the fallback.
 

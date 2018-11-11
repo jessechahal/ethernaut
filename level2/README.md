@@ -1,4 +1,4 @@
-# Level 2
+# Level 2 - Fallout
 
 ```
 await contract.Fal1out()
