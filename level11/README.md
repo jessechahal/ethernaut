@@ -7,3 +7,4 @@ while calling this implemented function. I ended up writing `isLastFloor(uint)` 
 
 Notes
 - sometimes you need to restart your browser because metamask & elixer are a bit buggy
+- information about view modifier not being respected https://github.com/manojpramesh/solidity-cheatsheet#view-or-constant-functions
